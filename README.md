@@ -26,7 +26,7 @@ College sports app to provide details about the various sports domain and for th
 - [splashscreen ](https://pub.dev/packages/splashscreen)
 
 
-# playStore Applink
+# PlayStore Applink
 
 https://play.google.com/store/apps/details?id=com.bdcoe.saksham
 
