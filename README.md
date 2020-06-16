@@ -6,11 +6,11 @@ College sports app to provide details about the various sports domain and for th
 
 # Features
 
-Update about what's happening in various sports domain.<br />
-Give the Schedule of sports event.<br />
-Vote for your favourite team.<br />
-Register yourself for the event.<br />
-Nice UI.<br />
+1) Update about what's happening in various sports domain.<br />
+2) Give the Schedule of sports event.<br />
+3) Vote for your favourite team.<br />
+4) Register yourself for the event.<br />
+5) Nice UI.<br />
 
 # Dependencies
 - [Flutter](https://flutter.dev/?gclid=CjwKCAjw26H3BRB2EiwAy32zhY0Ab85XiyQXZRGIRKSUHRRgrZZccezpmqjx9tXay7UqpS2QqgjgwxoCFCYQAvD_BwE&gclsrc=aw.ds)
