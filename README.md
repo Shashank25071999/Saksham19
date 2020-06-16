@@ -36,6 +36,12 @@ https://play.google.com/store/apps/details?id=com.bdcoe.saksham
 
 
 
+![1](https://user-images.githubusercontent.com/42460225/84814421-59035f00-afc6-11ea-907e-5e9474dda7e9.gif)  ![2](https://user-images.githubusercontent.com/42460225/84814599-910aa200-afc6-11ea-9f24-392aba14775f.gif)
+
+
+
+
+
 
 
 # Getting Started
