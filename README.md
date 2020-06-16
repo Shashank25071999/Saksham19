@@ -1,13 +1,16 @@
 # saksham19
 
-A new Flutter project.
+
+College sports app to provide details about the various sports domain and for the the registeration of student participating in it.
+
 
 # Features
 
-Register yourself for the Sports Event.
-Display News
-Display the daily schedule of the game.
-Nice UI
+Update about what's happening in various sports domain.
+Give the Schedule of sports event.
+Vote for your favourite team.
+Register yourself for the event.
+Nice UI.
 
 # Dependencies
 - [Flutter](https://flutter.dev/?gclid=CjwKCAjw26H3BRB2EiwAy32zhY0Ab85XiyQXZRGIRKSUHRRgrZZccezpmqjx9tXay7UqpS2QqgjgwxoCFCYQAvD_BwE&gclsrc=aw.ds)
@@ -23,6 +26,9 @@ Nice UI
 - [splashscreen ](https://pub.dev/packages/splashscreen)
 
 # Snapshot
+
+
+
 
 
 
