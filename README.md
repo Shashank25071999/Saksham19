@@ -1,4 +1,4 @@
-# saksham19
+# Saksham19
 
 
 College sports app to provide details about the various sports domain and for the the registeration of student participating in it.
